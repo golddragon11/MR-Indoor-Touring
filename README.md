@@ -9,13 +9,13 @@
 Unity Version: <b>2020.3.2f1</b>
 
 ### 學生撰寫的程式碼：
-[CoordinateTransform.cs]()
+[CoordinateTransform.cs](https://github.com/golddragon11/MR-Indoor-Touring/blob/master/Assets/CoordinateTransform.cs)
 
-[OutputJson.cs]()
+[OutputJson.cs](https://github.com/golddragon11/MR-Indoor-Touring/blob/master/Assets/OutputJson.cs)
 
-[Pathfinding.cs]()
+[Pathfinding.cs](https://github.com/golddragon11/MR-Indoor-Touring/blob/master/Assets/Pathfinding.cs)
 
-[Nav.cs]()
+[Nav.cs](https://github.com/golddragon11/MR-Indoor-Touring/blob/master/Assets/Nav.cs)
 
 <hr/>
 
@@ -31,14 +31,14 @@ Unity Version: <b>2020.3.2f1</b>
 <br/>修正導航路徑未更新的問題
 
 ### v0.3
-新增[NodeInfo.cs](https://github.com/golddragon11/V-AR/blob/master/Assets/NodeInfo.cs), [OutputJson.cs](https://github.com/golddragon11/V-AR/blob/master/Assets/OutputJson.cs)
+新增[NodeInfo.cs](https://github.com/golddragon11/MR-Indoor-Touring/blob/main/Assets/NodeInfo.cs), [OutputJson.cs](https://github.com/golddragon11/MR-Indoor-Touring/blob/master/Assets/OutputJson.cs)
 <br/>完成自動 JSON 輸出節點資訊功能
 
 ### v0.2
-新增[Nav.cs](https://github.com/golddragon11/V-AR/blob/master/Assets/Nav.cs), [Pathfinding.cs](https://github.com/golddragon11/V-AR/blob/master/Assets/Pathfinding.cs)
+新增[Nav.cs](https://github.com/golddragon11/MR-Indoor-Touring/blob/master/Assets/Nav.cs), [Pathfinding.cs](https://github.com/golddragon11/MR-Indoor-Touring/blob/master/Assets/Pathfinding.cs)
 <br/>初步完成導航功能
 
 ### v0.1
-新增 [CoordinateTransform.cs](https://github.com/golddragon11/V-AR/blob/master/Assets/CoordinateTransform.cs), 路徑：[V-AR/Assets/CoordinateTransform.cs](https://github.com/golddragon11/V-AR/blob/master/Assets/CoordinateTransform.cs)
+新增 [CoordinateTransform.cs](https://github.com/golddragon11/MR-Indoor-Touring/blob/master/Assets/CoordinateTransform.cs), 路徑：[V-AR/Assets/CoordinateTransform.cs](https://github.com/golddragon11/MR-Indoor-Touring/blob/master/Assets/CoordinateTransform.cs)
 <br/>使用方法請見註解
 <br/>此 script 已加在 GameObject IndoorAtlasSession 之下
