@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Floor1
+  - Floor2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 1F
+  - 2F
+  - nodes-1F
+  - nodes-2F
+  - minimapUI
+  - 3F
+  - nodes-3F
+  - background
+  - 4F
+  - 5F
+  - 6F
+  - nodes-4F
+  - nodes-5F
+  - nodes-6F
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,3656 @@
+[
+  {
+    "floorNum": 1,
+    "haveElevators": true,
+    "haveStairs": true,
+    "nodes": [
+      {
+        "isElevator": true,
+        "isStairs": false,
+        "nodeName": "電梯",
+        "position": {
+          "x": -1.640815,
+          "y": 1.35,
+          "z": -9.192294
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 19,
+            "Item2": 3.3154489994049072
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": true,
+        "nodeName": "側邊樓梯",
+        "position": {
+          "x": 27.9794731,
+          "y": 1.35,
+          "z": -8.172737
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 6,
+            "Item2": 5.3325605392456055
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": true,
+        "nodeName": "中央樓梯",
+        "position": {
+          "x": -5.23075676,
+          "y": 1.35,
+          "z": -5.15926552
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 19,
+            "Item2": 2.759999990463257
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "後門",
+        "position": {
+          "x": -4.174021,
+          "y": 1.35,
+          "z": -10.6858015
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 19,
+            "Item2": 4.920090675354004
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "入口",
+        "position": {
+          "x": 0.0834932,
+          "y": 1.35,
+          "z": 2.16744947
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 21,
+            "Item2": 3.1700003147125244
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "廁所",
+        "position": {
+          "x": 26.00733,
+          "y": 1.35,
+          "z": -14.6192751
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 6,
+            "Item2": 2.3906891345977783
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "無",
+        "position": {
+          "x": 24.8792324,
+          "y": 1.35,
+          "z": -12.5114822
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 1,
+            "Item2": 5.3325605392456055
+          },
+          {
+            "Item1": 5,
+            "Item2": 2.3906891345977783
+          },
+          {
+            "Item1": 9,
+            "Item2": 2.05087947845459
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "110B-先進資訊技術實驗室",
+        "position": {
+          "x": 22.719389,
+          "y": 1.35,
+          "z": -13.2856169
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 9,
+            "Item2": 1.489461064338684
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "101教室-後門",
+        "position": {
+          "x": 23.6126671,
+          "y": 1.35,
+          "z": -10.5686989
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 9,
+            "Item2": 1.4105675220489502
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "無",
+        "position": {
+          "x": 22.9505272,
+          "y": 1.35,
+          "z": -11.8141994
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 6,
+            "Item2": 2.05087947845459
+          },
+          {
+            "Item1": 7,
+            "Item2": 1.489461064338684
+          },
+          {
+            "Item1": 8,
+            "Item2": 1.4105675220489502
+          },
+          {
+            "Item1": 10,
+            "Item2": 2.1099979877471924
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "無",
+        "position": {
+          "x": 20.9460888,
+          "y": 1.35,
+          "z": -11.1551714
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 9,
+            "Item2": 2.1099979877471924
+          },
+          {
+            "Item1": 12,
+            "Item2": 2.1800012588500977
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "110A-林致宇教師研究室",
+        "position": {
+          "x": 18.3495178,
+          "y": 1.35,
+          "z": -11.848876
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 12,
+            "Item2": 1.4716660976409912
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "無",
+        "position": {
+          "x": 18.8751488,
+          "y": 1.35,
+          "z": -10.47428
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 9,
+            "Item2": 4.289999008178711
+          },
+          {
+            "Item1": 11,
+            "Item2": 1.4716660976409912
+          },
+          {
+            "Item1": 14,
+            "Item2": 3.309999465942383
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "112-密碼學實驗室",
+        "position": {
+          "x": 16.2392826,
+          "y": 1.35,
+          "z": -10.8392677
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 14,
+            "Item2": 1.4883877038955688
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "無",
+        "position": {
+          "x": 15.7307415,
+          "y": 1.35,
+          "z": -9.440453
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 12,
+            "Item2": 3.309999465942383
+          },
+          {
+            "Item1": 13,
+            "Item2": 1.4883877038955688
+          },
+          {
+            "Item1": 15,
+            "Item2": 1.793878197669983
+          },
+          {
+            "Item1": 16,
+            "Item2": 14.000001907348633
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "101-教室前門",
+        "position": {
+          "x": 17.08571,
+          "y": 1.35,
+          "z": -8.264843
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 14,
+            "Item2": 1.793878197669983
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "無",
+        "position": {
+          "x": 2.43113112,
+          "y": 1.35,
+          "z": -5.06776333
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 14,
+            "Item2": 14.000001907348633
+          },
+          {
+            "Item1": 17,
+            "Item2": 2.4052820205688477
+          },
+          {
+            "Item1": 18,
+            "Item2": 2.3517017364501953
+          },
+          {
+            "Item1": 20,
+            "Item2": 4.489999771118164
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "114A-高速通訊與計算實驗室",
+        "position": {
+          "x": 4.2307024,
+          "y": 1.35,
+          "z": -6.663672
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 16,
+            "Item2": 2.4052820205688477
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "105-教室",
+        "position": {
+          "x": 4.734506,
+          "y": 1.35,
+          "z": -4.593459
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 16,
+            "Item2": 2.3517017364501953
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "無",
+        "position": {
+          "x": -2.60883379,
+          "y": 1.35,
+          "z": -6.02131
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 0,
+            "Item2": 3.3154489994049072
+          },
+          {
+            "Item1": 2,
+            "Item2": 2.759999990463257
+          },
+          {
+            "Item1": 3,
+            "Item2": 4.920090675354004
+          },
+          {
+            "Item1": 20,
+            "Item2": 2.4800000190734863
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "無",
+        "position": {
+          "x": -1.83424318,
+          "y": 1.35,
+          "z": -3.665379
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 16,
+            "Item2": 4.489999771118164
+          },
+          {
+            "Item1": 19,
+            "Item2": 2.4800000190734863
+          },
+          {
+            "Item1": 21,
+            "Item2": 2.9699997901916504
+          },
+          {
+            "Item1": 22,
+            "Item2": 5.909999847412109
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "無",
+        "position": {
+          "x": -0.9066086,
+          "y": 1.35,
+          "z": -0.8439622
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 4,
+            "Item2": 3.1700003147125244
+          },
+          {
+            "Item1": 20,
+            "Item2": 2.9699997901916504
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "無",
+        "position": {
+          "x": -7.448578,
+          "y": 1.35,
+          "z": -1.81948006
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 20,
+            "Item2": 5.909999847412109
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "floorNum": 2,
+    "haveElevators": true,
+    "haveStairs": true,
+    "nodes": [
+      {
+        "isElevator": true,
+        "isStairs": false,
+        "nodeName": "電梯",
+        "position": {
+          "x": -0.826184154,
+          "y": 4.412842,
+          "z": -9.660136
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 14,
+            "Item2": 3.3154489994049072
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": true,
+        "nodeName": "側邊樓梯",
+        "position": {
+          "x": 28.1766186,
+          "y": 4.412842,
+          "z": -8.437561
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 4,
+            "Item2": 4.541201591491699
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": true,
+        "nodeName": "中央樓梯",
+        "position": {
+          "x": -4.416126,
+          "y": 4.412842,
+          "z": -5.62710762
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 14,
+            "Item2": 2.7599997520446777
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "廁所",
+        "position": {
+          "x": 27.5621719,
+          "y": 4.412842,
+          "z": -14.3725634
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 4,
+            "Item2": 1.4699984788894653
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "無",
+        "position": {
+          "x": 28.0213032,
+          "y": 4.412842,
+          "z": -12.9761057
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 1,
+            "Item2": 4.541201591491699
+          },
+          {
+            "Item1": 3,
+            "Item2": 1.4699984788894653
+          },
+          {
+            "Item1": 6,
+            "Item2": 1.901916742324829
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "機房",
+        "position": {
+          "x": 25.6619587,
+          "y": 4.412842,
+          "z": -14.4530888
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 6,
+            "Item2": 1.469999074935913
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "無",
+        "position": {
+          "x": 26.1210918,
+          "y": 4.412842,
+          "z": -13.0566311
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 4,
+            "Item2": 1.901916742324829
+          },
+          {
+            "Item1": 5,
+            "Item2": 1.469999074935913
+          },
+          {
+            "Item1": 7,
+            "Item2": 7.320002555847168
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "無",
+        "position": {
+          "x": 19.1672935,
+          "y": 4.412842,
+          "z": -10.77034
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 6,
+            "Item2": 7.320002555847168
+          },
+          {
+            "Item1": 8,
+            "Item2": 1.7002649307250977
+          },
+          {
+            "Item1": 9,
+            "Item2": 7.779998302459717
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "201-電腦教室",
+        "position": {
+          "x": 19.6697636,
+          "y": 4.412842,
+          "z": -9.146017
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 7,
+            "Item2": 1.7002649307250977
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "無",
+        "position": {
+          "x": 11.7765131,
+          "y": 4.412842,
+          "z": -8.340374
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 7,
+            "Item2": 7.779998302459717
+          },
+          {
+            "Item1": 10,
+            "Item2": 1.5402919054031372
+          },
+          {
+            "Item1": 12,
+            "Item2": 7.320002555847168
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "203-電腦教室",
+        "position": {
+          "x": 12.2860069,
+          "y": 4.412842,
+          "z": -6.886787
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 9,
+            "Item2": 1.5402919054031372
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "212-討論室",
+        "position": {
+          "x": 4.363583,
+          "y": 4.412842,
+          "z": -7.450541
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 12,
+            "Item2": 1.470000147819519
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "無",
+        "position": {
+          "x": 4.82271528,
+          "y": 4.412842,
+          "z": -6.054082
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 9,
+            "Item2": 7.320002555847168
+          },
+          {
+            "Item1": 11,
+            "Item2": 1.470000147819519
+          },
+          {
+            "Item1": 13,
+            "Item2": 1.5399999618530273
+          },
+          {
+            "Item1": 15,
+            "Item2": 6.150000095367432
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "205-Mac教室",
+        "position": {
+          "x": 5.303711,
+          "y": 4.412842,
+          "z": -4.591125
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 12,
+            "Item2": 1.5399999618530273
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "無",
+        "position": {
+          "x": -1.794203,
+          "y": 4.412842,
+          "z": -6.489152
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 0,
+            "Item2": 3.3154489994049072
+          },
+          {
+            "Item1": 2,
+            "Item2": 2.7599997520446777
+          },
+          {
+            "Item1": 15,
+            "Item2": 2.47999906539917
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "無",
+        "position": {
+          "x": -1.01961267,
+          "y": 4.412842,
+          "z": -4.133222
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 12,
+            "Item2": 6.150000095367432
+          },
+          {
+            "Item1": 14,
+            "Item2": 2.47999906539917
+          },
+          {
+            "Item1": 17,
+            "Item2": 7.59999942779541
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "214-教室",
+        "position": {
+          "x": -8.746031,
+          "y": 4.412842,
+          "z": -3.14031863
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 17,
+            "Item2": 1.470849871635437
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "無",
+        "position": {
+          "x": -8.2394,
+          "y": 4.412842,
+          "z": -1.75947666
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 15,
+            "Item2": 7.59999942779541
+          },
+          {
+            "Item1": 16,
+            "Item2": 1.470849871635437
+          },
+          {
+            "Item1": 18,
+            "Item2": 1.5408114194869995
+          },
+          {
+            "Item1": 19,
+            "Item2": 11.509998321533203
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "207-教室",
+        "position": {
+          "x": -7.80590343,
+          "y": 4.412842,
+          "z": -0.280902863
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 17,
+            "Item2": 1.5408114194869995
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "無",
+        "position": {
+          "x": -19.1735764,
+          "y": 4.412842,
+          "z": 1.83549809
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 17,
+            "Item2": 11.509998321533203
+          },
+          {
+            "Item1": 20,
+            "Item2": 1.4708503484725952
+          },
+          {
+            "Item1": 21,
+            "Item2": 1.5408110618591309
+          },
+          {
+            "Item1": 23,
+            "Item2": 12.210000991821289
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "216-教室",
+        "position": {
+          "x": -19.68021,
+          "y": 4.412842,
+          "z": 0.45465672
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 19,
+            "Item2": 1.4708503484725952
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "209-教室",
+        "position": {
+          "x": -18.7400818,
+          "y": 4.412842,
+          "z": 3.31407213
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 19,
+            "Item2": 1.5408110618591309
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "廁所",
+        "position": {
+          "x": -31.27937,
+          "y": 4.412842,
+          "z": 4.26826572
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 23,
+            "Item2": 1.4708510637283325
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "無",
+        "position": {
+          "x": -30.7727356,
+          "y": 4.412842,
+          "z": 5.649108
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 19,
+            "Item2": 12.210000991821289
+          },
+          {
+            "Item1": 22,
+            "Item2": 1.4708510637283325
+          },
+          {
+            "Item1": 24,
+            "Item2": 5.99283504486084
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "2F側門",
+        "position": {
+          "x": -35.05903,
+          "y": 4.412842,
+          "z": 9.837397
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 23,
+            "Item2": 5.99283504486084
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "floorNum": 3,
+    "haveElevators": false,
+    "haveStairs": false,
+    "nodes": [
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "電梯",
+        "position": {
+          "x": -1.94940066,
+          "y": 7.39000034,
+          "z": -11.8277588
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 13,
+            "Item2": 5.076071262359619
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "側邊樓梯",
+        "position": {
+          "x": 28.3759842,
+          "y": 7.39000034,
+          "z": -8.471531
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 3,
+            "Item2": 4.624477863311768
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "中央樓梯",
+        "position": {
+          "x": -4.68902445,
+          "y": 7.39000034,
+          "z": -6.16898155
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 13,
+            "Item2": 2.059999942779541
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "無",
+        "position": {
+          "x": 26.0776329,
+          "y": 7.39000034,
+          "z": -12.4844322
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 1,
+            "Item2": 4.624477863311768
+          },
+          {
+            "Item1": 4,
+            "Item2": 4.348287582397461
+          },
+          {
+            "Item1": 6,
+            "Item2": 5.760000705718994
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "西邊廁所",
+        "position": {
+          "x": 28.249773,
+          "y": 7.39000034,
+          "z": -16.2513161
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 3,
+            "Item2": 4.348287582397461
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "308-電腦系統安全實驗室",
+        "position": {
+          "x": 19.99635,
+          "y": 7.39000034,
+          "z": -12.4429607
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 6,
+            "Item2": 1.8602423667907715
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "無",
+        "position": {
+          "x": 20.605793,
+          "y": 7.39000034,
+          "z": -10.6853828
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 3,
+            "Item2": 5.760000705718994
+          },
+          {
+            "Item1": 5,
+            "Item2": 1.8602423667907715
+          },
+          {
+            "Item1": 8,
+            "Item2": 3.619999408721924
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "310-系主任辦公室",
+        "position": {
+          "x": 17.65942,
+          "y": 7.39000034,
+          "z": -11.6746168
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 8,
+            "Item2": 2.1763501167297363
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "無",
+        "position": {
+          "x": 17.1668949,
+          "y": 7.39000034,
+          "z": -9.55473
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 6,
+            "Item2": 3.619999408721924
+          },
+          {
+            "Item1": 7,
+            "Item2": 2.1763501167297363
+          },
+          {
+            "Item1": 9,
+            "Item2": 1.5100010633468628
+          },
+          {
+            "Item1": 11,
+            "Item2": 14.640873908996582
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "301-電腦教室",
+        "position": {
+          "x": 17.6385212,
+          "y": 7.39000034,
+          "z": -8.120272
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 8,
+            "Item2": 1.5100010633468628
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "312-系辦公室",
+        "position": {
+          "x": 5.14374971,
+          "y": 7.39000034,
+          "z": -6.454378
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 11,
+            "Item2": 2.450183629989624
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "無",
+        "position": {
+          "x": 3.3092773,
+          "y": 7.39000034,
+          "z": -4.830152
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 8,
+            "Item2": 14.640873908996582
+          },
+          {
+            "Item1": 10,
+            "Item2": 2.450183629989624
+          },
+          {
+            "Item1": 12,
+            "Item2": 2.9740545749664307
+          },
+          {
+            "Item1": 14,
+            "Item2": 2.8744564056396484
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "303-教室",
+        "position": {
+          "x": 6.24835539,
+          "y": 7.39000034,
+          "z": -4.3753767
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 11,
+            "Item2": 2.9740545749664307
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "無",
+        "position": {
+          "x": -2.73208213,
+          "y": 7.39000034,
+          "z": -6.81239128
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 0,
+            "Item2": 5.076071262359619
+          },
+          {
+            "Item1": 2,
+            "Item2": 2.059999942779541
+          },
+          {
+            "Item1": 14,
+            "Item2": 4.253774642944336
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "305-會議室",
+        "position": {
+          "x": 0.5328841,
+          "y": 7.39000034,
+          "z": -4.085746
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 11,
+            "Item2": 2.8744564056396484
+          },
+          {
+            "Item1": 13,
+            "Item2": 4.253774642944336
+          },
+          {
+            "Item1": 16,
+            "Item2": 9.260000228881836
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "314-院長室",
+        "position": {
+          "x": -8.8448,
+          "y": 7.39000034,
+          "z": -2.96047235
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 16,
+            "Item2": 1.8599998950958252
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "無",
+        "position": {
+          "x": -8.263857,
+          "y": 7.39000034,
+          "z": -1.19352448
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 14,
+            "Item2": 9.260000228881836
+          },
+          {
+            "Item1": 15,
+            "Item2": 1.8599998950958252
+          },
+          {
+            "Item1": 17,
+            "Item2": 1.5099999904632568
+          },
+          {
+            "Item1": 19,
+            "Item2": 9.710000991821289
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "307-教室",
+        "position": {
+          "x": -7.792232,
+          "y": 7.39000034,
+          "z": 0.240933537
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 16,
+            "Item2": 1.5099999904632568
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "314-教室",
+        "position": {
+          "x": -18.06903,
+          "y": 7.39000034,
+          "z": 0.07229996
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 19,
+            "Item2": 1.8600003719329834
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "無",
+        "position": {
+          "x": -17.4880867,
+          "y": 7.39000034,
+          "z": 1.839248
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 16,
+            "Item2": 9.710000991821289
+          },
+          {
+            "Item1": 18,
+            "Item2": 1.8600003719329834
+          },
+          {
+            "Item1": 20,
+            "Item2": 1.5100003480911255
+          },
+          {
+            "Item1": 22,
+            "Item2": 2.4099998474121094
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "307A-教室",
+        "position": {
+          "x": -17.01646,
+          "y": 7.39000034,
+          "z": 3.273706
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 19,
+            "Item2": 1.5100003480911255
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "316-蘇育生教授研究室",
+        "position": {
+          "x": -20.3584633,
+          "y": 7.39000034,
+          "z": 0.825027
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 22,
+            "Item2": 1.8600003719329834
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "無",
+        "position": {
+          "x": -19.77752,
+          "y": 7.39000034,
+          "z": 2.591975
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 19,
+            "Item2": 2.4099998474121094
+          },
+          {
+            "Item1": 21,
+            "Item2": 1.8600003719329834
+          },
+          {
+            "Item1": 23,
+            "Item2": 1.5099998712539673
+          },
+          {
+            "Item1": 24,
+            "Item2": 12.010000228881836
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "309-教室",
+        "position": {
+          "x": -19.3058929,
+          "y": 7.39000034,
+          "z": 4.02643251
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 22,
+            "Item2": 1.5099998712539673
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "東邊廁所",
+        "position": {
+          "x": -31.1866837,
+          "y": 7.39000034,
+          "z": 6.343117
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 22,
+            "Item2": 12.010000228881836
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "floorNum": 4,
+    "haveElevators": true,
+    "haveStairs": true,
+    "nodes": [
+      {
+        "isElevator": true,
+        "isStairs": false,
+        "nodeName": "電梯",
+        "position": {
+          "x": -0.7855557,
+          "y": 11.8200006,
+          "z": -13.4517069
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 16,
+            "Item2": 6.750007152557373
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": true,
+        "nodeName": "西側樓梯",
+        "position": {
+          "x": 25.31765,
+          "y": 11.8200006,
+          "z": -11.71553
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 3,
+            "Item2": 3.0000154972076416
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": true,
+        "nodeName": "中央樓梯",
+        "position": {
+          "x": -4.603494,
+          "y": 11.8200006,
+          "z": -7.73602247
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 16,
+            "Item2": 4.071916103363037
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "無",
+        "position": {
+          "x": 24.3915882,
+          "y": 11.8200006,
+          "z": -14.5690374
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 1,
+            "Item2": 3.0000154972076416
+          },
+          {
+            "Item1": 4,
+            "Item2": 1.5102975368499756
+          },
+          {
+            "Item1": 29,
+            "Item2": 4.220000267028809
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "西側廁所",
+        "position": {
+          "x": 23.94919,
+          "y": 11.8200006,
+          "z": -16.0130882
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 3,
+            "Item2": 1.5102975368499756
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "408-陳華淮教師研究室",
+        "position": {
+          "x": 20.5857334,
+          "y": 11.8200006,
+          "z": -14.9091234
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 29,
+            "Item2": 1.6685913801193237
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "410-張欽圳教師研究室",
+        "position": {
+          "x": 19.09403,
+          "y": 11.8200006,
+          "z": -14.4195127
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 29,
+            "Item2": 1.7377265691757202
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "無",
+        "position": {
+          "x": 17.9402084,
+          "y": 11.8200006,
+          "z": -12.4515457
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 8,
+            "Item2": 0.9308593273162842
+          },
+          {
+            "Item1": 29,
+            "Item2": 2.569997787475586
+          },
+          {
+            "Item1": 30,
+            "Item2": 4.260000228881836
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "401-智慧型.服務導向軟體工程實驗室",
+        "position": {
+          "x": 18.1922283,
+          "y": 11.8200006,
+          "z": -11.5554514
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 7,
+            "Item2": 0.9308593273162842
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "414B-網路系統實驗室",
+        "position": {
+          "x": 12.4336195,
+          "y": 11.8200006,
+          "z": -12.2334118
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 30,
+            "Item2": 1.8334945440292358
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "403-智慧型系統實驗室",
+        "position": {
+          "x": 11.4178009,
+          "y": 11.8200006,
+          "z": -9.331926
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 11,
+            "Item2": 0.9304839372634888
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "無",
+        "position": {
+          "x": 11.1562805,
+          "y": 11.8200006,
+          "z": -10.2249031
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 10,
+            "Item2": 0.9304839372634888
+          },
+          {
+            "Item1": 13,
+            "Item2": 7.480001449584961
+          },
+          {
+            "Item1": 30,
+            "Item2": 2.8800008296966553
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "414A-科學計算實驗室",
+        "position": {
+          "x": 4.138984,
+          "y": 11.8200006,
+          "z": -9.51092
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 13,
+            "Item2": 1.6211721897125244
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "無",
+        "position": {
+          "x": 4.0493083,
+          "y": 11.8200006,
+          "z": -7.89222956
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 11,
+            "Item2": 7.480001449584961
+          },
+          {
+            "Item1": 12,
+            "Item2": 1.6211721897125244
+          },
+          {
+            "Item1": 14,
+            "Item2": 1.1640015840530396
+          },
+          {
+            "Item1": 15,
+            "Item2": 1.2803512811660767
+          },
+          {
+            "Item1": 16,
+            "Item2": 4.861902713775635
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "405-先進計算實驗室.計算生物學實驗室",
+        "position": {
+          "x": 5.00442362,
+          "y": 11.8200006,
+          "z": -7.226907
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 13,
+            "Item2": 1.1640015840530396
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "407-研討室",
+        "position": {
+          "x": 3.50321865,
+          "y": 11.8200006,
+          "z": -6.734177
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 13,
+            "Item2": 1.2803512811660767
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "無",
+        "position": {
+          "x": -0.6648514,
+          "y": 11.8200006,
+          "z": -6.702779
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 0,
+            "Item2": 6.750007152557373
+          },
+          {
+            "Item1": 2,
+            "Item2": 4.071916103363037
+          },
+          {
+            "Item1": 13,
+            "Item2": 4.861902713775635
+          },
+          {
+            "Item1": 17,
+            "Item2": 2.0427684783935547
+          },
+          {
+            "Item1": 19,
+            "Item2": 7.520000457763672
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "409-研討室",
+        "position": {
+          "x": -1.78900385,
+          "y": 11.8200006,
+          "z": -4.99714565
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 16,
+            "Item2": 2.0427684783935547
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "416-電磁實驗室",
+        "position": {
+          "x": -8.355222,
+          "y": 11.8200006,
+          "z": -5.41003132
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 19,
+            "Item2": 1.1853269338607788
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "無",
+        "position": {
+          "x": -7.80982828,
+          "y": 11.8200006,
+          "z": -4.357631
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 16,
+            "Item2": 7.520000457763672
+          },
+          {
+            "Item1": 18,
+            "Item2": 1.1853269338607788
+          },
+          {
+            "Item1": 20,
+            "Item2": 1.2841334342956543
+          },
+          {
+            "Item1": 21,
+            "Item2": 7.019998550415039
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "411-奈光機電科技實驗室",
+        "position": {
+          "x": -7.5942955,
+          "y": 11.8200006,
+          "z": -3.09171486
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 19,
+            "Item2": 1.2841334342956543
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "無",
+        "position": {
+          "x": -14.4797382,
+          "y": 11.8200006,
+          "z": -2.16841149
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 19,
+            "Item2": 7.019998550415039
+          },
+          {
+            "Item1": 22,
+            "Item2": 1.1715372800827026
+          },
+          {
+            "Item1": 23,
+            "Item2": 1.2714158296585083
+          },
+          {
+            "Item1": 25,
+            "Item2": 6.760002613067627
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "418-控制教學實驗室",
+        "position": {
+          "x": -14.9016151,
+          "y": 11.8200006,
+          "z": -3.2613523
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 21,
+            "Item2": 1.1715372800827026
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "413-非線性控制實驗室",
+        "position": {
+          "x": -14.1406908,
+          "y": 11.8200006,
+          "z": -0.943036
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 21,
+            "Item2": 1.2714158296585083
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "420-無線通訊實驗室",
+        "position": {
+          "x": -21.3625,
+          "y": 11.8200006,
+          "z": -1.14074028
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 25,
+            "Item2": 1.1742656230926514
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "無",
+        "position": {
+          "x": -20.9026184,
+          "y": 11.8200006,
+          "z": -0.06027311
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 21,
+            "Item2": 6.760002613067627
+          },
+          {
+            "Item1": 24,
+            "Item2": 1.1742656230926514
+          },
+          {
+            "Item1": 26,
+            "Item2": 1.2739307880401611
+          },
+          {
+            "Item1": 27,
+            "Item2": 7.530023097991943
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "415-強健控制實驗室",
+        "position": {
+          "x": -20.6015759,
+          "y": 11.8200006,
+          "z": 1.177577
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 25,
+            "Item2": 1.2739307880401611
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "東側廁所",
+        "position": {
+          "x": -28.06333,
+          "y": 11.8200006,
+          "z": 2.268989
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 25,
+            "Item2": 7.530023097991943
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "412-葉春超教師研究室",
+        "position": {
+          "x": 14.1058464,
+          "y": 11.8200006,
+          "z": -12.7822742
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 30,
+            "Item2": 1.672870397567749
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "無",
+        "position": {
+          "x": 20.38204,
+          "y": 11.8200006,
+          "z": -13.2530117
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 3,
+            "Item2": 4.220000267028809
+          },
+          {
+            "Item1": 5,
+            "Item2": 1.6685913801193237
+          },
+          {
+            "Item1": 6,
+            "Item2": 1.7377265691757202
+          },
+          {
+            "Item1": 7,
+            "Item2": 2.569997787475586
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "無",
+        "position": {
+          "x": 13.8926554,
+          "y": 11.8200006,
+          "z": -11.123044
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 7,
+            "Item2": 4.260000228881836
+          },
+          {
+            "Item1": 9,
+            "Item2": 1.8334945440292358
+          },
+          {
+            "Item1": 11,
+            "Item2": 2.8800008296966553
+          },
+          {
+            "Item1": 28,
+            "Item2": 1.672870397567749
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "floorNum": 5,
+    "haveElevators": true,
+    "haveStairs": true,
+    "nodes": [
+      {
+        "isElevator": true,
+        "isStairs": false,
+        "nodeName": "電梯",
+        "position": {
+          "x": -1.03219664,
+          "y": 14.78,
+          "z": -14.1979876
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 18,
+            "Item2": 7.343201637268066
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": true,
+        "nodeName": "西側樓梯",
+        "position": {
+          "x": 25.0773869,
+          "y": 14.78,
+          "z": -12.5604877
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 3,
+            "Item2": 2.730018377304077
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": true,
+        "nodeName": "中央樓梯",
+        "position": {
+          "x": -4.617157,
+          "y": 14.78,
+          "z": -7.83212
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 18,
+            "Item2": 2.4457309246063232
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "無",
+        "position": {
+          "x": 24.2257137,
+          "y": 14.78,
+          "z": -15.15426
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 1,
+            "Item2": 2.730018377304077
+          },
+          {
+            "Item1": 4,
+            "Item2": 1.3382078409194946
+          },
+          {
+            "Item1": 34,
+            "Item2": 4.118856906890869
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "西側廁所",
+        "position": {
+          "x": 23.6005611,
+          "y": 14.78,
+          "z": -16.33747
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 3,
+            "Item2": 1.3382078409194946
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "508-林英仁教師研究室",
+        "position": {
+          "x": 20.53216,
+          "y": 14.78,
+          "z": -15.138339
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 34,
+            "Item2": 1.065082311630249
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "510-翁世光教師研究室",
+        "position": {
+          "x": 19.0423183,
+          "y": 14.78,
+          "z": -14.6430912
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 34,
+            "Item2": 1.3096946477890015
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "無",
+        "position": {
+          "x": 17.6972141,
+          "y": 14.78,
+          "z": -13.2686119
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 8,
+            "Item2": 1.2306493520736694
+          },
+          {
+            "Item1": 34,
+            "Item2": 2.6800003051757812
+          },
+          {
+            "Item1": 35,
+            "Item2": 4.160002708435059
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "501-資訊安全系統與網路安全實驗室",
+        "position": {
+          "x": 18.0472527,
+          "y": 14.78,
+          "z": -12.0887938
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 7,
+            "Item2": 1.2306493520736694
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "512-丁培毅教師研究室",
+        "position": {
+          "x": 14.0160656,
+          "y": 14.78,
+          "z": -12.96175
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 35,
+            "Item2": 1.0400961637496948
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "無",
+        "position": {
+          "x": 10.92175,
+          "y": 14.78,
+          "z": -11.0163431
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 12,
+            "Item2": 1.2303651571273804
+          },
+          {
+            "Item1": 35,
+            "Item2": 2.979999303817749
+          },
+          {
+            "Item1": 36,
+            "Item2": 4.1023850440979
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "514-張光遠教師研究室",
+        "position": {
+          "x": 12.3933716,
+          "y": 14.78,
+          "z": -12.4223413
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 35,
+            "Item2": 1.4340494871139526
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "503-電腦圖學實驗室",
+        "position": {
+          "x": 11.2812767,
+          "y": 14.78,
+          "z": -9.839679
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 10,
+            "Item2": 1.2303651571273804
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "516-許玉平教師研究室",
+        "position": {
+          "x": 7.4588604,
+          "y": 14.78,
+          "z": -10.7820339
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 36,
+            "Item2": 1.1432263851165771
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "無",
+        "position": {
+          "x": 3.79517841,
+          "y": 14.78,
+          "z": -8.647362
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 16,
+            "Item2": 1.4303154945373535
+          },
+          {
+            "Item1": 17,
+            "Item2": 1.4705451726913452
+          },
+          {
+            "Item1": 18,
+            "Item2": 6.3491106033325195
+          },
+          {
+            "Item1": 36,
+            "Item2": 3.4076144695281982
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "518-蔡國煇教師研究室",
+        "position": {
+          "x": 6.05442333,
+          "y": 14.78,
+          "z": -10.315177
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 36,
+            "Item2": 1.1401346921920776
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "505-嵌入式系統研究室",
+        "position": {
+          "x": 4.87590361,
+          "y": 14.78,
+          "z": -7.710433
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 14,
+            "Item2": 1.4303154945373535
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "507-蔡東佐教師研究室",
+        "position": {
+          "x": 3.36710787,
+          "y": 14.78,
+          "z": -7.24050045
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 14,
+            "Item2": 1.4705451726913452
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "無",
+        "position": {
+          "x": -2.32837939,
+          "y": 14.78,
+          "z": -6.970089
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 0,
+            "Item2": 7.343201637268066
+          },
+          {
+            "Item1": 2,
+            "Item2": 2.4457309246063232
+          },
+          {
+            "Item1": 14,
+            "Item2": 6.3491106033325195
+          },
+          {
+            "Item1": 19,
+            "Item2": 1.565407395362854
+          },
+          {
+            "Item1": 37,
+            "Item2": 5.2897257804870605
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "509-蔡宇軒教師研究室",
+        "position": {
+          "x": -2.31386161,
+          "y": 14.78,
+          "z": -5.404749
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 18,
+            "Item2": 1.565407395362854
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "511-李孟書教師研究室",
+        "position": {
+          "x": -6.185736,
+          "y": 14.78,
+          "z": -3.89637971
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 37,
+            "Item2": 1.3024976253509521
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "513-數位通訊實驗室",
+        "position": {
+          "x": -7.54272652,
+          "y": 14.78,
+          "z": -3.44529462
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 37,
+            "Item2": 1.3926950693130493
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "520-鄭于珊教師研究室",
+        "position": {
+          "x": -10.384367,
+          "y": 14.78,
+          "z": -4.95604944
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 23,
+            "Item2": 1.231787085533142
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "無",
+        "position": {
+          "x": -10.1608467,
+          "y": 14.78,
+          "z": -3.744712
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 22,
+            "Item2": 1.231787085533142
+          },
+          {
+            "Item1": 24,
+            "Item2": 1.641950011253357
+          },
+          {
+            "Item1": 25,
+            "Item2": 4.56185245513916
+          },
+          {
+            "Item1": 37,
+            "Item2": 3.190141439437866
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "522-葉美玲教師研究室",
+        "position": {
+          "x": -11.4628792,
+          "y": 14.78,
+          "z": -4.7450676
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 23,
+            "Item2": 1.641950011253357
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "無",
+        "position": {
+          "x": -14.52904,
+          "y": 14.78,
+          "z": -2.42965174
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 23,
+            "Item2": 4.56185245513916
+          },
+          {
+            "Item1": 27,
+            "Item2": 1.2700002193450928
+          },
+          {
+            "Item1": 38,
+            "Item2": 2.8099982738494873
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "524-鄭智湧教師研究室",
+        "position": {
+          "x": -16.91313,
+          "y": 14.78,
+          "z": -2.75417376
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 38,
+            "Item2": 1.2434219121932983
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "515-智慧能源實驗室",
+        "position": {
+          "x": -14.1284266,
+          "y": 14.78,
+          "z": -1.22449231
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 25,
+            "Item2": 1.2700002193450928
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "526-曾敬翔教師研究室",
+        "position": {
+          "x": -18.1752243,
+          "y": 14.78,
+          "z": -2.33463478
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 38,
+            "Item2": 1.2593653202056885
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "528-容志輝教師研究室",
+        "position": {
+          "x": -22.9737015,
+          "y": 14.78,
+          "z": -0.760622263
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 30,
+            "Item2": 1.9994479417800903
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "無",
+        "position": {
+          "x": -21.00071,
+          "y": 14.78,
+          "z": -0.4364391
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 29,
+            "Item2": 1.9994479417800903
+          },
+          {
+            "Item1": 31,
+            "Item2": 1.4235166311264038
+          },
+          {
+            "Item1": 38,
+            "Item2": 3.962841510772705
+          },
+          {
+            "Item1": 39,
+            "Item2": 3.3726234436035156
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "517-半導體實驗室",
+        "position": {
+          "x": -20.6476727,
+          "y": 14.78,
+          "z": 0.9426056
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 30,
+            "Item2": 1.4235166311264038
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "530-何志傑教師研究室",
+        "position": {
+          "x": -24.5047073,
+          "y": 14.78,
+          "z": -0.199001908
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 39,
+            "Item2": 1.2709832191467285
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "東側廁所",
+        "position": {
+          "x": -27.7603455,
+          "y": 14.78,
+          "z": 1.80003023
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 39,
+            "Item2": 3.7911605834960938
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "無",
+        "position": {
+          "x": 20.2403851,
+          "y": 14.78,
+          "z": -14.1140013
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 3,
+            "Item2": 4.118856906890869
+          },
+          {
+            "Item1": 5,
+            "Item2": 1.065082311630249
+          },
+          {
+            "Item1": 6,
+            "Item2": 1.3096946477890015
+          },
+          {
+            "Item1": 7,
+            "Item2": 2.6800003051757812
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "無",
+        "position": {
+          "x": 13.7496033,
+          "y": 14.78,
+          "z": -11.9563656
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 7,
+            "Item2": 4.160002708435059
+          },
+          {
+            "Item1": 9,
+            "Item2": 1.0400961637496948
+          },
+          {
+            "Item1": 10,
+            "Item2": 2.979999303817749
+          },
+          {
+            "Item1": 11,
+            "Item2": 1.4340494871139526
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "無",
+        "position": {
+          "x": 7.028621,
+          "y": 14.78,
+          "z": -9.722855
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 10,
+            "Item2": 4.1023850440979
+          },
+          {
+            "Item1": 13,
+            "Item2": 1.1432263851165771
+          },
+          {
+            "Item1": 14,
+            "Item2": 3.4076144695281982
+          },
+          {
+            "Item1": 15,
+            "Item2": 1.1401346921920776
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "無",
+        "position": {
+          "x": -7.14317751,
+          "y": 14.78,
+          "z": -4.779446
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 18,
+            "Item2": 5.2897257804870605
+          },
+          {
+            "Item1": 20,
+            "Item2": 1.3024976253509521
+          },
+          {
+            "Item1": 21,
+            "Item2": 1.3926950693130493
+          },
+          {
+            "Item1": 23,
+            "Item2": 3.190141439437866
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "無",
+        "position": {
+          "x": -17.1955719,
+          "y": 14.78,
+          "z": -1.54325485
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 25,
+            "Item2": 2.8099982738494873
+          },
+          {
+            "Item1": 26,
+            "Item2": 1.2434219121932983
+          },
+          {
+            "Item1": 28,
+            "Item2": 1.2593653202056885
+          },
+          {
+            "Item1": 30,
+            "Item2": 3.962841510772705
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "無",
+        "position": {
+          "x": -24.0566483,
+          "y": 14.78,
+          "z": 0.990385056
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 30,
+            "Item2": 3.3726234436035156
+          },
+          {
+            "Item1": 32,
+            "Item2": 1.2709832191467285
+          },
+          {
+            "Item1": 33,
+            "Item2": 3.7911605834960938
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "floorNum": 6,
+    "haveElevators": true,
+    "haveStairs": true,
+    "nodes": [
+      {
+        "isElevator": true,
+        "isStairs": false,
+        "nodeName": "電梯",
+        "position": {
+          "x": -0.8724822,
+          "y": 18.05,
+          "z": -13.4123726
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 18,
+            "Item2": 7.343201637268066
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": true,
+        "nodeName": "西側樓梯",
+        "position": {
+          "x": 25.2410011,
+          "y": 18.05,
+          "z": -11.8383293
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 3,
+            "Item2": 3.0000154972076416
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": true,
+        "nodeName": "中央樓梯",
+        "position": {
+          "x": -4.654853,
+          "y": 18.05,
+          "z": -7.67308855
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 18,
+            "Item2": 2.914463520050049
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "無",
+        "position": {
+          "x": 24.29724,
+          "y": 18.05,
+          "z": -14.6860313
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 1,
+            "Item2": 3.0000154972076416
+          },
+          {
+            "Item1": 4,
+            "Item2": 1.050429344177246
+          },
+          {
+            "Item1": 34,
+            "Item2": 4.239999771118164
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "西側廁所",
+        "position": {
+          "x": 23.9920464,
+          "y": 18.05,
+          "z": -15.6911478
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 3,
+            "Item2": 1.050429344177246
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "608-阮議聰教師研究室",
+        "position": {
+          "x": 20.6355076,
+          "y": 18.05,
+          "z": -14.5663166
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 34,
+            "Item2": 1.2788269519805908
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "610-鄭錫齊教師研究室",
+        "position": {
+          "x": 19.1468754,
+          "y": 18.05,
+          "z": -14.0674515
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 34,
+            "Item2": 1.3446553945541382
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "無",
+        "position": {
+          "x": 16.5790939,
+          "y": 18.05,
+          "z": -12.099555
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 8,
+            "Item2": 1.3917649984359741
+          },
+          {
+            "Item1": 9,
+            "Item2": 2.061553955078125
+          },
+          {
+            "Item1": 34,
+            "Item2": 3.9000017642974854
+          },
+          {
+            "Item1": 11,
+            "Item2": 4.799385070800781
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "601-系統晶片實驗室",
+        "position": {
+          "x": 17.9705486,
+          "y": 18.05,
+          "z": -12.0701647
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 7,
+            "Item2": 1.3917649984359741
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "612-辛華昀教師研究室",
+        "position": {
+          "x": 14.5608826,
+          "y": 18.05,
+          "z": -12.5200634
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 7,
+            "Item2": 2.061553955078125
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "614-趙志民教師研究室",
+        "position": {
+          "x": 12.5033445,
+          "y": 18.05,
+          "z": -11.8305473
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 11,
+            "Item2": 1.1194632053375244
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "無",
+        "position": {
+          "x": 11.9420118,
+          "y": 18.05,
+          "z": -10.86199
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 7,
+            "Item2": 4.799385070800781
+          },
+          {
+            "Item1": 10,
+            "Item2": 1.1194632053375244
+          },
+          {
+            "Item1": 12,
+            "Item2": 1.286002278327942
+          },
+          {
+            "Item1": 38,
+            "Item2": 5.260000705718994
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "603-多媒體處理與通訊.智慧型多媒體實驗室",
+        "position": {
+          "x": 11.2100582,
+          "y": 18.05,
+          "z": -9.804613
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 11,
+            "Item2": 1.286002278327942
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "616-張雅惠教師研究室",
+        "position": {
+          "x": 7.572834,
+          "y": 18.05,
+          "z": -10.1782532
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 38,
+            "Item2": 1.1651605367660522
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "無",
+        "position": {
+          "x": 3.85987616,
+          "y": 18.05,
+          "z": -8.480478
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 16,
+            "Item2": 1.2553890943527222
+          },
+          {
+            "Item1": 17,
+            "Item2": 1.4092915058135986
+          },
+          {
+            "Item1": 18,
+            "Item2": 6.435666084289551
+          },
+          {
+            "Item1": 38,
+            "Item2": 3.1751694679260254
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "618-顏茂旭教師研究室",
+        "position": {
+          "x": 6.008346,
+          "y": 18.05,
+          "z": -9.653968
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 38,
+            "Item2": 1.0536128282546997
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "605-資料庫.自然語言處理實驗室",
+        "position": {
+          "x": 4.809877,
+          "y": 18.05,
+          "z": -7.65980768
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 14,
+            "Item2": 1.2553890943527222
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "607-馬永昌教師研究室",
+        "position": {
+          "x": 3.30222821,
+          "y": 18.05,
+          "z": -7.18620968
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 14,
+            "Item2": 1.4092915058135986
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "無",
+        "position": {
+          "x": -2.15109587,
+          "y": 18.05,
+          "z": -6.181345
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 0,
+            "Item2": 7.343201637268066
+          },
+          {
+            "Item1": 2,
+            "Item2": 2.914463520050049
+          },
+          {
+            "Item1": 14,
+            "Item2": 6.435666084289551
+          },
+          {
+            "Item1": 19,
+            "Item2": 1.357681155204773
+          },
+          {
+            "Item1": 23,
+            "Item2": 5.340000629425049
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "609-林川傑教師研究室",
+        "position": {
+          "x": -2.20267844,
+          "y": 18.05,
+          "z": -4.824644
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 18,
+            "Item2": 1.357681155204773
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "611-林韓禹教師研究室",
+        "position": {
+          "x": -6.043346,
+          "y": 18.05,
+          "z": -3.88561034
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 23,
+            "Item2": 1.3152941465377808
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "613-人工智慧教學研究室",
+        "position": {
+          "x": -7.598352,
+          "y": 18.05,
+          "z": -3.36450267
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 23,
+            "Item2": 1.1840602159500122
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "620-林清池教師研究室",
+        "position": {
+          "x": -10.1297417,
+          "y": 18.05,
+          "z": -4.34074926
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 23,
+            "Item2": 2.9189364910125732
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "無",
+        "position": {
+          "x": -7.21435,
+          "y": 18.05,
+          "z": -4.48456573
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 18,
+            "Item2": 5.340000629425049
+          },
+          {
+            "Item1": 20,
+            "Item2": 1.3152941465377808
+          },
+          {
+            "Item1": 21,
+            "Item2": 1.1840602159500122
+          },
+          {
+            "Item1": 22,
+            "Item2": 2.9189364910125732
+          },
+          {
+            "Item1": 24,
+            "Item2": 4.34871244430542
+          },
+          {
+            "Item1": 25,
+            "Item2": 7.650528907775879
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "622-AI研究中心-研討室",
+        "position": {
+          "x": -11.5172052,
+          "y": 18.05,
+          "z": -3.8546946
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 23,
+            "Item2": 4.34871244430542
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "無",
+        "position": {
+          "x": -14.43929,
+          "y": 18.05,
+          "z": -1.96845078
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 23,
+            "Item2": 7.650528907775879
+          },
+          {
+            "Item1": 26,
+            "Item2": 2.390146255493164
+          },
+          {
+            "Item1": 27,
+            "Item2": 0.8802275061607361
+          },
+          {
+            "Item1": 28,
+            "Item2": 3.638913869857788
+          },
+          {
+            "Item1": 30,
+            "Item2": 6.790597915649414
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "624-盧晃瑩教師研究室",
+        "position": {
+          "x": -16.8177052,
+          "y": 18.05,
+          "z": -2.20496941
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 25,
+            "Item2": 2.390146255493164
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "615-微波遙測實驗室",
+        "position": {
+          "x": -14.1786337,
+          "y": 18.05,
+          "z": -1.12770188
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 25,
+            "Item2": 0.8802275061607361
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "626-吳政郎教師研究室",
+        "position": {
+          "x": -18.072422,
+          "y": 18.05,
+          "z": -1.7634002
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 25,
+            "Item2": 3.638913869857788
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "628-林進豐教師研究室",
+        "position": {
+          "x": -22.8670616,
+          "y": 18.05,
+          "z": -0.177730739
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 30,
+            "Item2": 1.9811604022979736
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "無",
+        "position": {
+          "x": -20.9059963,
+          "y": 18.05,
+          "z": 0.103728771
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 25,
+            "Item2": 6.790597915649414
+          },
+          {
+            "Item1": 29,
+            "Item2": 1.9811604022979736
+          },
+          {
+            "Item1": 31,
+            "Item2": 1.2473974227905273
+          },
+          {
+            "Item1": 32,
+            "Item2": 3.5022239685058594
+          },
+          {
+            "Item1": 36,
+            "Item2": 9.530425071716309
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "617-網路控制實驗室",
+        "position": {
+          "x": -20.7648659,
+          "y": 18.05,
+          "z": 1.34311676
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 30,
+            "Item2": 1.2473974227905273
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "630-林正凱教師研究室",
+        "position": {
+          "x": -24.3966961,
+          "y": 18.05,
+          "z": 0.3876077
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 30,
+            "Item2": 3.5022239685058594
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "632-吳宗達教師研究室",
+        "position": {
+          "x": -29.66255,
+          "y": 18.05,
+          "z": 1.95189643
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 36,
+            "Item2": 1.2899622917175293
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "無",
+        "position": {
+          "x": 20.2769775,
+          "y": 18.05,
+          "z": -13.3387766
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 3,
+            "Item2": 4.239999771118164
+          },
+          {
+            "Item1": 5,
+            "Item2": 1.2788269519805908
+          },
+          {
+            "Item1": 6,
+            "Item2": 1.3446553945541382
+          },
+          {
+            "Item1": 7,
+            "Item2": 3.9000017642974854
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "621-微光機電技術實驗室(二)",
+        "position": {
+          "x": -30.5502853,
+          "y": 18.05,
+          "z": 4.46417236
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 36,
+            "Item2": 1.4001421928405762
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "無",
+        "position": {
+          "x": -29.9135056,
+          "y": 18.05,
+          "z": 3.2172122
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 30,
+            "Item2": 9.530425071716309
+          },
+          {
+            "Item1": 33,
+            "Item2": 1.2899622917175293
+          },
+          {
+            "Item1": 35,
+            "Item2": 1.4001421928405762
+          },
+          {
+            "Item1": 37,
+            "Item2": 1.3587119579315186
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "634-許為元教師研究室",
+        "position": {
+          "x": -31.0562668,
+          "y": 18.05,
+          "z": 2.48223257
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 36,
+            "Item2": 1.3587119579315186
+          }
+        ]
+      },
+      {
+        "isElevator": false,
+        "isStairs": false,
+        "nodeName": "無",
+        "position": {
+          "x": 6.9546113,
+          "y": 18.05,
+          "z": -9.19063
+        },
+        "adjacentNodes": [
+          {
+            "Item1": 11,
+            "Item2": 5.260000705718994
+          },
+          {
+            "Item1": 13,
+            "Item2": 1.1651605367660522
+          },
+          {
+            "Item1": 14,
+            "Item2": 3.1751694679260254
+          },
+          {
+            "Item1": 15,
+            "Item2": 1.0536128282546997
+          }
+        ]
+      }
+    ]
+  }
+]
