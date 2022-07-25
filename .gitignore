@@ -2,7 +2,10 @@
 *.csproj
 *.meta
 .vsconfig
+.DS_Store
 
+.vs/
+.vscode/
 [Oo]bj/
 Temp/
 Logs/
